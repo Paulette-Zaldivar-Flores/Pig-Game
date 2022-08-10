@@ -16,7 +16,9 @@ body {
   font-weight: 400;
   height: 100vh;
   color: #333;
-  background-image: linear-gradient(to top left, #753682 0%, #bf2e34 100%);
+
+  background-image: linear-gradient(0deg, #d9afd9 0%, #97d9e1 100%);
+
   display: flex;
   align-items: center;
   justify-content: center;
@@ -64,7 +66,7 @@ main {
 }
 
 .player--active {
-  background-color: rgba(255, 255, 255, 0.4);
+  background-color: rgba(159, 137, 255, 0.4);
 }
 .player--active .name {
   font-weight: 700;
@@ -81,7 +83,7 @@ main {
   background-color: #c7365f;
   opacity: 0.8;
   border-radius: 9px;
-  color: #fff;
+  color: rgb(255, 255, 255);
   width: 65%;
   padding: 2rem;
   text-align: center;
