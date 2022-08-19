@@ -1,4 +1,4 @@
-# Pig Game
+# Pig Game 🐷
 
 > A simple 2 player dice game game developed with CSS and JavaScript
 > Live demo [_here_](https://pig-dice-gamejs.netlify.app/).
